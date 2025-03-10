@@ -1,6 +1,6 @@
 # Vue Draggable
 
-一个基于 Vue 的拖拽组件。
+一个基于 Vue 
 
 ## 安装
 
