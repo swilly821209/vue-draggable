@@ -1,13 +1,16 @@
 {
-  "name": "draggable",
+  "name": "docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev packages/docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  }
 }
